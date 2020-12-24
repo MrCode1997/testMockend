@@ -3,6 +3,7 @@
     "title": "string",
     "views": "int",
     "published": "boolean",
+    "gigions": "int",
     "createdAt": "date",
     "comments": "Comment[]"
   },
